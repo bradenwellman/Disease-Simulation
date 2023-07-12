@@ -29,9 +29,9 @@ The simulation model collects data about the state of agents (susceptible, infec
 Here are some examples of visualizing the simulation results:
 
 - Plotting individual agent states over time:
-![Agent States](./screenshots/Screen%20Shot%202023-05-31%20at%206.04.08%20PM.png)
+![Agent States](./Screen%20Shot%202023-05-31%20at%206.04.08%20PM.png)
 
 - Plotting aggregate counts of agent states over time:
-![Aggregate Counts](./screenshots/Screen%20Shot%202023-05-31%20at%206.05.27%20PM.png)
+![Aggregate Counts](./Screen%20Shot%202023-05-31%20at%206.05.27%20PM.png)
 
 For more detailed examples and instructions on visualizing the simulation results, refer to the code documentation and the provided Jupyter Notebook.
