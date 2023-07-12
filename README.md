@@ -3,12 +3,10 @@
 This repository contains a Python code implementation of an agent-based disease simulation model. The simulation model allows you to study the spread and dynamics of a disease within a population based on various parameters and scenarios.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+- Introduction
+- Installation
+- Usage
+- Results
 
 ## Introduction
 The disease simulation model is implemented using the Mesa package, a Python framework for agent-based modeling. It allows you to create a population of agents and simulate the transmission of a disease within that population. The model takes into account parameters such as the number of agents, symptomatic rate, recovery type, vaccine availability, transmission probability, and death rate. The simulation model also includes features like multi-grid spatial representation and data collection for analysis.
@@ -31,9 +29,9 @@ The simulation model collects data about the state of agents (susceptible, infec
 Here are some examples of visualizing the simulation results:
 
 - Plotting individual agent states over time:
-![Agent States](./screenshots/agent_states.png)
+![Agent States](./screenshots/Screen%20Shot%202023-05-31%20at%206.04.08%20PM.png)
 
 - Plotting aggregate counts of agent states over time:
-![Aggregate Counts](./screenshots/aggregate_counts.png)
+![Aggregate Counts](./screenshots/Screen%20Shot%202023-05-31%20at%206.05.27%20PM.png)
 
 For more detailed examples and instructions on visualizing the simulation results, refer to the code documentation and the provided Jupyter Notebook.
